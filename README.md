@@ -19,6 +19,16 @@ It is written in C, fully interactive, and designed to provide a trippy visual e
 
 ## Installation
 
+### The 1-Second Install (Linux / macOS)
+
+Just paste this into your terminal. It will download, compile, and install VinZ automatically:
+
+```bash
+curl -sL https://raw.githubusercontent.com/vinz-ux/VinZ/main/install.sh | bash
+```
+
+### Manual Install (From Source)
+
 ```bash
 git clone https://github.com/vinz-ux/VinZ.git
 cd VinZ
